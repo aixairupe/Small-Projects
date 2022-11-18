@@ -1,0 +1,1 @@
+El clásico juego que todos conocemos. Esta vez, nuestro oponente es la computadora. 
