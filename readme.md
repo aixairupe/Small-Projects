@@ -1,0 +1,1 @@
+Similar al otro proyecto de "Adivina el número", pero en este caso quien debe adivinarlo es la computadora. Para ello, el usuario debe elegir un número dentro de un rango determinado y con eso guiará las deducciones de la pc. 
