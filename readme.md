@@ -1,3 +1,1 @@
-Este proyecto es una aplicación de dados para juegos de rol.
-Al estar pensado para juegos de rol en especial, contiene funciones adaptadas a distintos sistemas (MdT, D&D, HITOS, etc) y alternativas flexibles para casos necesarios.
-Es un proyecto todavía en desarrollo. Por el momento, todas las contribuciones son mías. 
+Este proyecto es un pequeño juego que consiste en que el usuario ingrese un número, dentro de un rango dado, con el objetivo de que coincida con el número designado aleatoriamente por el programa.
