@@ -1,0 +1,1 @@
+Este proyecto llamado Mad Libs consiste en una historia en la cual algunas palabras deben ser ingresadas por el usuario mediante input. Luego, esas palabras se reemplazan en los espacios vacíos del sttring final. Cuando este se imprime, queda una frase completa, aunque no siempre tendrá sentido y ahí radica lo divertido. 
