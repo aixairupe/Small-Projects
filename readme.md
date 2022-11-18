@@ -1,0 +1,1 @@
+El código de búsqueda ingenua sirve para encontrar un elemento determinado dentro de una lista. Si el elemento está, la función va a retornar el índice en donde se encuentra alojado; en caso contrario, devolverá el valor -1 para dejar en claro que el elemento no está.
