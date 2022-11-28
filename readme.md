@@ -1,0 +1,1 @@
+Se trata de un programa todavía en desarrollo. Es el clásico juego del ahorcado, aunque todavía no logro que otorgue la victoria y cierre el bucle cuando se gana. En el transcurso del mes continuaré trabajando en este proyecto y subiendo actualizaciones con los comentarios del paso a paso detallado.
