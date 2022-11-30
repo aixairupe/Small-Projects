@@ -1,0 +1,1 @@
+Este código puede generar una contraseña segura que combina letras en mayúscula y minúscula con números y símbolos, con una cantidad de caracteres ingresada por el usuario. Si no se ingresan números, el programa volverá a pedir un input válido. 
